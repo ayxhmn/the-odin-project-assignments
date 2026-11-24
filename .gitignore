@@ -1,0 +1,10 @@
+/node_modules
+/build
+/builds
+/bin
+*.db
+*.swp
+*.tmp
+*.temp
+*.env
+*.env.local
